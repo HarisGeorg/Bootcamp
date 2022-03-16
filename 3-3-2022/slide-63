@@ -1,0 +1,15 @@
+// askisi 1
+
+var year= +prompt("Give year number");
+
+if (year%4==0){
+    if(year%100==0 && year%400!=0){
+        console.log("Year is not Leap1");
+    }
+    else{
+        console.log("Year is Leap");
+    }
+}
+else{
+    console.log("Year is not Leap2")
+}

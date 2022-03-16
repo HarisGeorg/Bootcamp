@@ -1,0 +1,15 @@
+var no1= +prompt("Give No1")
+var no2= +prompt("Give No2")
+var no3= +prompt("Give No3")
+
+if(no1>no2 && no1>no3){
+    console.log("to No1 einai to megalitero")
+}
+
+if(no2>no1 && no2>no3){
+    console.log("to No2 einai to megalitero")
+}
+
+if(no3>no2 && no3>no1){
+    console.log("to No3 einai to megalitero")
+}

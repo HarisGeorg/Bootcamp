@@ -1,0 +1,14 @@
+var a = +prompt("Give 1st number");
+var b = +prompt("Give 2nd number");
+
+if(a>b){
+    cosole.log("1st nubler is greater");
+}
+else{
+    if(a<b){
+    console.log("2nd number is greater");
+    }
+    else{
+    console.log("numbers are equal");
+    }
+}

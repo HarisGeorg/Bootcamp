@@ -1,0 +1,8 @@
+var x="346";
+
+console.log(x+x);
+x=parseInt(x);
+console.log(x/13);
+console.log(x/11);
+console.log(x/7);
+console.log(x);

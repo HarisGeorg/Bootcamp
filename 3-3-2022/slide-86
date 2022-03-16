@@ -1,0 +1,5 @@
+console.log(isNaN(123));
+console.log(isNaN("MyName"));
+console.log(isNaN("8"));
+console.log(isNaN("20/5/2021"));
+console.log(isNaN(true)); // 0 1
