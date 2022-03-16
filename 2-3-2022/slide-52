@@ -1,3 +1,0 @@
-no1=+prompt("Dose ton 1o arithmo");
-no2=+prompt("Dose ton 2o arithmo");
-console.log("Summary of your numbers is: "+(no1+no2));
